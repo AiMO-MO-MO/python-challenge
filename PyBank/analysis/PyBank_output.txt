@@ -1,0 +1,12 @@
+Financial Analysis
+ --------------------------
+
+    Total Months:   86
+
+    Total:   $ 22564198
+
+    Average:   $ -8311.105882352942
+
+    Greatest Increase:    16-Aug $( 1862002)
+
+    Greatest Decrease:    14-Feb$( -1825558)
